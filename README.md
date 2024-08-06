@@ -8,8 +8,10 @@ All the Steps to follow and create this project can be found in this Video from 
 
 ## Screenshot of the App
 
+<p>
 <img src="./screenshot/start.png" width="300" />
 <img src="./screenshot/view.png" width="300" />
 <img src="./screenshot/finish.png" width="300" />
+</p>
 
 **_Note: Further improvements can be found in subsequent branches. Most probably branch name: final_**
